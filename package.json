@@ -1,0 +1,7 @@
+{
+  "name": "Netflix",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Mathues Fellipi <47674343+MatheusFellipi@users.noreply.github.com>",
+  "license": "MIT"
+}
